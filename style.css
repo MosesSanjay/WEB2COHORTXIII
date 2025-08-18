@@ -1,0 +1,15 @@
+* {
+  background-color: rgb(221, 168, 221);
+}
+
+h3 {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+}
+
+div {
+  border: solid blue;
+  padding: 100px;
+  margin: 300px;
+}
